@@ -1,7 +1,9 @@
 # CodeIgniter_eproduct_example
-E-products (vegetables &amp; fruits)
-Application CRUD
-Frameworks :  CodeIgniter    Zurb Foundation
+<ul>
+	<li>E-products (vegetables &amp; fruits)</li>
+<li>Application CRUD
+	<li>Frameworks :  CodeIgniter    Zurb Foundation</li>
+	</ul>
 
 
 # ScreenShot
