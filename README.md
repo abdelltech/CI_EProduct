@@ -1,4 +1,4 @@
-# CodeIgniter_eproduct_example
+# CodeIgniter e-product example
 
 - E-products (vegetables &amp; fruits)
 - Application CRUD
@@ -28,7 +28,7 @@
 
 
 # Configuration
-1. Extraxt files
+1. Extract files
 2. Create a database & configure the file "application/config/database.php" 
 >...........Example.............
   'hostname' => 'localhost',
