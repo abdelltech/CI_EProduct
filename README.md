@@ -4,12 +4,8 @@
 <li>Application CRUD
 	<li>Frameworks :  CodeIgniter    Zurb Foundation</li>
 	</ul>
-
-
-# ScreenShot
-
-View all products
-Access to admin account
+* View all products
+- Access to admin account
 Adding product
 Updating product information
 Deleting product
@@ -17,6 +13,10 @@ Sign up as client
 Access to client account
 Adding product to basket
 Editing client profile
+
+# ScreenShot
+
+
 
 # Configuration
 Create a database & configure the file "application/config/database.php" 
