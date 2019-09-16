@@ -1,9 +1,10 @@
 # CodeIgniter_eproduct_example
-<ul>
-	<li>E-products (vegetables &amp; fruits)</li>
-<li>Application CRUD
-	<li>Frameworks :  CodeIgniter    Zurb Foundation</li>
-	</ul>
+
+- E-products (vegetables &amp; fruits)
+- Application CRUD
+- Frameworks :  CodeIgniter & Zurb Foundation
+	
+	
 - View all products
 - Access to admin account
 - Adding product
