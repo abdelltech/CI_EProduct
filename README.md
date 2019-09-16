@@ -35,12 +35,12 @@
 	'username' => 'root',
 	'password' => '',
 	'database' => 'db_products'
- >...........................
+
 3. Import the file db_products.sql
 
 4. Configure the file "application/config/database.php"
 
-$config['base_url'] = 'your_path'; 
+> $config['base_url'] = 'your_path'; 
 
 
 # Youtube
