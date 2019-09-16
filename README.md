@@ -4,9 +4,9 @@
 <li>Application CRUD
 	<li>Frameworks :  CodeIgniter    Zurb Foundation</li>
 	</ul>
-* View all products
-- Access to admin account
--Adding product
+View all products
+Access to admin account
+Adding product
 Updating product information
 Deleting product
 Sign up as client
@@ -17,11 +17,12 @@ Editing client profile
 # ScreenShot
 ![Signup](screenshot/signup.jpg)
 ![Signin](screenshot/signin.jpg)
-![Signin](screenshot/add_basket.jpg)
-![Signin](screenshot/edit_account.jpg)
-![Signin](screenshot/form_admin.jpg)
-![Signin](screenshot/table_admin.jpg)
-![Signin](screenshot/table_client.jpg)
+![Add Basket](screenshot/add_basket.jpg)
+![Edit Account](screenshot/edit_account.jpg)
+![Form Admin](screenshot/form_admin.jpg)
+![Table Admin](screenshot/table_admin.jpg)
+![Table Client](screenshot/table_client.jpg)
+![Conception](screenshot/conception.jpg)
 
 
 
