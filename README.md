@@ -6,7 +6,7 @@
 	</ul>
 * View all products
 - Access to admin account
-Adding product
+-Adding product
 Updating product information
 Deleting product
 Sign up as client
@@ -15,6 +15,13 @@ Adding product to basket
 Editing client profile
 
 # ScreenShot
+![Signup](screenshot/signup.jpg)
+![Signin](screenshot/signin.jpg)
+![Signin](screenshot/add_basket.jpg)
+![Signin](screenshot/edit_account.jpg)
+![Signin](screenshot/form_admin.jpg)
+![Signin](screenshot/table_admin.jpg)
+![Signin](screenshot/table_client.jpg)
 
 
 
