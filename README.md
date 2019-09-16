@@ -15,7 +15,7 @@
 - Adding product to basket
 - Editing client profile
 
-# ScreenShot
+# Screenshot
 ![Signup](screenshot/signup.jpg)
 ![Signin](screenshot/signin.jpg)
 ![Add Basket](screenshot/add_basket.jpg)
@@ -28,16 +28,17 @@
 
 
 # Configuration
-Create a database & configure the file "application/config/database.php" 
+1. Extraxt files
+2. Create a database & configure the file "application/config/database.php" 
 ...........Example.............
   'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'db_products'
  ...........................
-Import the file db_products.sql
+3. Import the file db_products.sql
 
-Configure the file "application/config/database.php"
+4. Configure the file "application/config/database.php"
 
 $config['base_url'] = 'your_path'; 
 
