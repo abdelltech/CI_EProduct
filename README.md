@@ -30,12 +30,12 @@
 # Configuration
 1. Extraxt files
 2. Create a database & configure the file "application/config/database.php" 
-...........Example.............
+>...........Example.............
   'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
 	'database' => 'db_products'
- ...........................
+ >...........................
 3. Import the file db_products.sql
 
 4. Configure the file "application/config/database.php"
