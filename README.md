@@ -1,6 +1,6 @@
-# CodeIgniter e-product example
+# CodeIgniter
 
-- E-products (vegetables &amp; fruits)
+- Vegetables &amp; Fruits
 - Application CRUD
 - Frameworks :  CodeIgniter & Zurb Foundation
 -------------------------------------------------------------------	
